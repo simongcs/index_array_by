@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madkeysh/index-array-by.git"
+    "url": "git+https://github.com/simongcs/index-by.git"
   },
   "keywords": [
     "index"
@@ -16,9 +16,9 @@
   "author": "madkey@sent.com",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/madkeysh/index-array-by/issues"
+    "url": "https://github.com/simongcs/index-by/issues"
   },
-  "homepage": "https://github.com/madkeysh/index-array-by#readme",
+  "homepage": "https://github.com/simongcs/index-by#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.2.0"
