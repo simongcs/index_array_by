@@ -1,14 +1,14 @@
 {
-  "name": "index-by",
+  "name": "index_array_by",
   "version": "1.0.0",
-  "description": "create index",
+  "description": "Create an object with indexes from an array, first param: Array, second param: key used to create the index.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simongcs/index-by.git"
+    "url": "git+https://github.com/madkeysh/index-array-by.git"
   },
   "keywords": [
     "index"
@@ -16,7 +16,11 @@
   "author": "madkey@sent.com",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/simongcs/index-by/issues"
+    "url": "https://github.com/madkeysh/index-array-by/issues"
   },
-  "homepage": "https://github.com/simongcs/index-by#readme"
+  "homepage": "https://github.com/madkeysh/index-array-by#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
 }
