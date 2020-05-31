@@ -1,5 +1,5 @@
 {
-  "name": "index_array_by",
+  "name": "index_object_by_array",
   "version": "1.0.0",
   "description": "Create an object with indexes from an array, first param: Array, second param: key used to create the index.",
   "main": "index.js",
